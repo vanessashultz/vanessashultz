@@ -1,5 +1,7 @@
 # Hi, I'm Nessa! 👋
 
+![Snake animation](https://github.com/vanessashultz/vanessashultz/blob/output/github-contribution-grid-snake.svg)
+
 # 💫 About Me:
 🏗️ I specialize in building clean and maintainable web applications!<br>🎮 I love playing Mass Effect (don't ask me how I did playing Renegade ❌)!<br>📚 "The Expanse" series is my favorite!<br>🐈‍⬛🐈🐈‍⬛🐩🐩 I have 3 cats and 2 poodles!<br>🏔️ I dream on one day owning land on a mountain!
 
@@ -14,6 +16,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vanessashultz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
