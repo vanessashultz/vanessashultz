@@ -17,12 +17,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vanessashultz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<img align="left" height="180em" alt="laptop gif" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vanessashultz&icon=3&color=11)](https://visitcount.itsvg.in)
 
+
+<img align="left" height="180em" alt="laptop gif" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
