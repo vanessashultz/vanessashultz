@@ -1,7 +1,7 @@
 # Hi, I'm Nessa! 👋
 
 <!-- ![Snake animation](https://github.com/vanessashultz/vanessashultz/blob/output/github-contribution-grid-snake.svg)-->
-<!--# 💫 About Me:--
+<!--# 💫 About Me:-->
 🏗️ I specialize in building clean and maintainable web applications!
 <br>
 🎮 I love playing Mass Effect (don't ask me how I did playing Renegade ❌)!
