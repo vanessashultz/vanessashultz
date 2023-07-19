@@ -3,7 +3,15 @@
 ![Snake animation](https://github.com/vanessashultz/vanessashultz/blob/output/github-contribution-grid-snake.svg)
 
 # 💫 About Me:
-🏗️ I specialize in building clean and maintainable web applications!<br>🎮 I love playing Mass Effect (don't ask me how I did playing Renegade ❌)!<br>📚 "The Expanse" series is my favorite!<br>🐈‍⬛🐈🐈‍⬛🐩🐩 I have 3 cats and 2 poodles!<br>🏔️ I dream of one day owning land on a mountain!
+🏗️ I specialize in building clean and maintainable web applications!
+<br>
+🎮 I love playing Mass Effect (don't ask me how I did playing Renegade ❌)!
+<br>
+📚 "The Expanse" series is my favorite!
+<br>
+🐈‍⬛🐈🐈‍⬛🐩🐩 I have 3 cats and 2 poodles!
+<br>
+🏔️ I dream of one day owning land on a mountain!
 
 
 ## 🌐 Socials:
