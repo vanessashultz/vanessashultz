@@ -4,13 +4,15 @@
 <!--# 💫 About Me:-->
 🏗️ I specialize in building clean and maintainable web applications!
 <br>
-🎮 I love playing Mass Effect (don't ask me how I did playing Renegade ❌)!
+🎮 I love playing Mass Effect!
 <br>
-📚 "The Expanse" series is my favorite!
+📚 "The Expanse" series is my favorite book series!
 <br>
 🐈‍⬛🐈🐈‍⬛🐩🐩 I have 3 cats and 2 poodles!
 <br>
 🏔️ I dream of one day owning land on a mountain!
+
+# Website: https://simplynessa.dev/
 
 
 ## 🌐 Socials:
