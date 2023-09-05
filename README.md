@@ -1,4 +1,4 @@
-# Hi, I'm Nessa! 
+# Hi, I'm Nessa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![github-user-contribution (1)](https://github.com/vanessashultz/vanessashultz/assets/95943218/8f08a7d8-3677-4c9a-84fd-404f139992c4)
 
 <!--# 💫 About Me:-->
