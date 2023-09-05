@@ -1,6 +1,7 @@
 # Hi, I'm Nessa! 👋
 
-<!-- ![Snake animation](https://github.com/vanessashultz/vanessashultz/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/vanessashultz/vanessashultz/blob/output/github-contribution-grid-snake.svg)
+
 <!--# 💫 About Me:-->
 🏗️ I specialize in building clean and maintainable web applications!
 <br>
