@@ -1,4 +1,4 @@
-# Hi, I'm Nessa! 👋
+# Hi, I'm Nessa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--# 💫 About Me:-->
 🏗️ I specialize in building clean and maintainable web applications!
